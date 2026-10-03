@@ -1,0 +1,80 @@
+[
+  {
+    "file": "map-train-Nf3aGQTDAA1.png",
+    "scene": "Nf3aGQTDAA1",
+    "label": "覆盖 23.4%",
+    "caption": "7 条路线；0.5 米覆盖 23.4%，重合区域 57.6%，轨迹点未映射 0.0%。跨层段在俯视图中不连线。"
+  },
+  {
+    "file": "map-train-66seV3BWPoX.png",
+    "scene": "66seV3BWPoX",
+    "label": "覆盖 49.7%",
+    "caption": "62 条路线；0.5 米覆盖 49.7%，重合区域 93.5%，轨迹点未映射 1.5%。跨层段在俯视图中不连线。"
+  },
+  {
+    "file": "map-train-k3ohRuM6bso.png",
+    "scene": "k3ohRuM6bso",
+    "label": "覆盖偏低",
+    "caption": "112 条路线；0.5 米覆盖 72.6%，重合区域 84.5%，轨迹点未映射 0.9%。跨层段在俯视图中不连线。"
+  },
+  {
+    "file": "map-train-JiHGQpwKUvd.png",
+    "scene": "JiHGQpwKUvd",
+    "label": "覆盖较低",
+    "caption": "139 条路线；0.5 米覆盖 82.9%，重合区域 93.4%，轨迹点未映射 0.8%。跨层段在俯视图中不连线。"
+  },
+  {
+    "file": "map-train-Lva3QmSMsTr.png",
+    "scene": "Lva3QmSMsTr",
+    "label": "覆盖居中",
+    "caption": "631 条路线；0.5 米覆盖 89.0%，重合区域 97.5%，轨迹点未映射 0.8%。跨层段在俯视图中不连线。"
+  },
+  {
+    "file": "map-train-SrHVAbHUpUX.png",
+    "scene": "SrHVAbHUpUX",
+    "label": "覆盖居中偏高",
+    "caption": "230 条路线；0.5 米覆盖 92.9%，重合区域 95.6%，轨迹点未映射 0.8%。跨层段在俯视图中不连线。"
+  },
+  {
+    "file": "map-train-4h4JxvG3cip.png",
+    "scene": "4h4JxvG3cip",
+    "label": "覆盖较高",
+    "caption": "331 条路线；0.5 米覆盖 95.5%，重合区域 98.0%，轨迹点未映射 0.6%。跨层段在俯视图中不连线。"
+  },
+  {
+    "file": "map-train-bDTsgcSK5Qr.png",
+    "scene": "bDTsgcSK5Qr",
+    "label": "覆盖偏高",
+    "caption": "521 条路线；0.5 米覆盖 98.4%，重合区域 98.2%，轨迹点未映射 1.0%。跨层段在俯视图中不连线。"
+  },
+  {
+    "file": "map-train-2tqbn5VLQoq.png",
+    "scene": "2tqbn5VLQoq",
+    "label": "相近覆盖，低重合",
+    "caption": "161 条路线；0.5 米覆盖 77.9%，重合区域 73.5%，轨迹点未映射 0.8%。跨层段在俯视图中不连线。"
+  },
+  {
+    "file": "map-train-LQy8D2nmZ4x.png",
+    "scene": "LQy8D2nmZ4x",
+    "label": "相近覆盖，高重合",
+    "caption": "412 条路线；0.5 米覆盖 76.7%，重合区域 99.0%，轨迹点未映射 1.1%。跨层段在俯视图中不连线。"
+  },
+  {
+    "file": "map-train-yr17PDCnDDW.png",
+    "scene": "yr17PDCnDDW",
+    "label": "刚低于几何相似门槛",
+    "caption": "8073 条路线；0.5 米覆盖 89.4%，重合区域 97.6%，轨迹点未映射 0.4%。跨层段在俯视图中不连线。 红蓝两条路线的 IoU 为 80.0%，短路线包含率为 89.2%；空心圆为起点，实心方为终点。"
+  },
+  {
+    "file": "map-train-1S7LAXRdDqK.png",
+    "scene": "1S7LAXRdDqK",
+    "label": "刚达到几何相似门槛",
+    "caption": "1627 条路线；0.5 米覆盖 93.6%，重合区域 99.7%，轨迹点未映射 1.1%。跨层段在俯视图中不连线。 红蓝两条路线的 IoU 为 80.0%，短路线包含率为 98.5%；空心圆为起点，实心方为终点。"
+  },
+  {
+    "file": "map-train-TziyvKgzdAs.png",
+    "scene": "TziyvKgzdAs",
+    "label": "反向共享走廊",
+    "caption": "103 条路线；0.5 米覆盖 84.2%，重合区域 95.8%，轨迹点未映射 1.1%。跨层段在俯视图中不连线。 红蓝两条路线的 IoU 为 100.0%，短路线包含率为 100.0%；空心圆为起点，实心方为终点。"
+  }
+]
